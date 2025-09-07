@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "name": "ai-career-assistant",
-  "alias": ["ai-career-assistant"],
+  "name": "career-assistant",
+  "alias": ["career-assistant"],
   "builds": [
     {
       "src": "package.json",
