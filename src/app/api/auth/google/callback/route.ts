@@ -1,5 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server'
 
+// Force dynamic rendering for OAuth callback
+export const dynamic = 'force-dynamic'
+
 // Google Calendar OAuth callback handler
 export async function GET(request: NextRequest) {
   try {
