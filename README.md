@@ -1,8 +1,8 @@
-# AI Career Assistant 🤖💼
+# Career Assistant 🤖💼
 
-## Global MCP Hackathon - Theme 1: Build a purposeful AI agent
+## AI-Powered Career Development Platform
 
-An AI-powered platform that helps students customize resumes for specific job postings, provides skill gap analysis, and suggests learning paths to improve their candidacy.
+An intelligent platform that helps students and professionals customize resumes for specific job postings, provides skill gap analysis, and suggests learning paths to improve their candidacy.
 
 ## 🚀 Features
 
