@@ -1,0 +1,46 @@
+{
+  "name": "ai-career-assistant",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit",
+    "test": "echo \"Warning: No tests specified\" && exit 0",
+    "postbuild": "echo \"Build completed successfully\"",
+    "vercel-build": "npm run build"
+  },
+  "dependencies": {
+    "@descope/nextjs-sdk": "^0.14.15",
+    "@descope/web-components-ui": "^1.132.0",
+    "@types/jspdf": "^1.3.3",
+    "@types/nodemailer": "^7.0.1",
+    "axios": "^1.6.0",
+    "bcryptjs": "^2.4.3",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.2",
+    "lucide-react": "^0.542.0",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.3",
+    "next": "14.2.0",
+    "nodemailer": "^7.0.6",
+    "openai": "^4.20.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/jsonwebtoken": "^9.0.5",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "autoprefixer": "^10.0.0",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "14.2.0",
+    "postcss": "^8.0.0",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5.0.0"
+  }
+}
